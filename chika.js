@@ -1,7 +1,7 @@
 /*
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Fadli.
+   * Contact Me on wa.me/6282290552178
+   * 
 */
 
 require('./settings')
